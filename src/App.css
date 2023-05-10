@@ -54,3 +54,32 @@ a:hover{
   text-decoration: none;
   color: white;
 }
+
+
+#div1{
+  font-size: 30px;
+  width: 30%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px;
+  color: #226172;
+}
+
+#divImg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#div2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+#icons img{
+  padding: 10px;
+}
+
+
